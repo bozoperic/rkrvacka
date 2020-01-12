@@ -1,0 +1,100 @@
+h2{
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 2.5rem;
+
+}
+p,span{
+    font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
+line-height: 1.5;
+}
+a:link,a:visited{
+    color:#393e46; 
+}
+.rezultati{
+    background-color: #eeeeee;
+    color:#393e46; 
+    font-weight: bold;
+  
+
+}
+.zRezultati{
+    background-color: #393e46;
+    color: #eeeeee;  
+    font-weight: bold;
+}
+#naslov{
+    
+}
+.logo{
+    padding-left: 7%;
+    padding-right: 7%;
+    font-size: 1.5rem;
+    
+}
+#carousel{
+
+    padding:7% 7%;
+    text-align: left;
+    background-color: #eeeeee;
+    font-family: 'Montserrat-Black';
+    font-size: 1.2rem;
+    
+}
+.kartica{
+    padding-left: 7%;
+    text-align: center;
+}/*
+@media (max-width:992px){
+    .kartica{
+
+        text-align: center;
+        padding-left: 35%;
+    }
+} */
+
+#novosti { 
+    background-color: #393e46;
+padding:2% 15%;
+color: #eeeeee;
+}
+#oKlubu,#kontakt{
+    padding:7% 15%; 
+    background-color:#eeeeee;
+    text-align: center;
+}
+
+#prva{
+    padding:7% 15%; 
+    background-color: #393e46;
+    text-align: center;
+    color: #eeeeee;
+}
+.social-icon{
+    margin: 20px 10px;
+   
+}
+.vijesti {
+    padding:7% 15%; 
+    background-color:#eeeeee;
+    text-align: left;
+    color: #393e46
+    font-family: 'Montserrat-Black';
+    font-size: 1.2rem;
+    
+}
+
+.vijesti1 {
+    padding:7% 15%; 
+    background-color: #393e46;
+    text-align: left;
+    color: #eeeeee;
+    font-family: 'Montserrat-Black';
+    font-size: 1.2rem;
+    
+}
+.razmakSlika{ 
+    padding-top: 15%;
+    padding-bottom: 15%;
+    padding-right: 7%;
+}
